@@ -1,0 +1,17 @@
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc de programmation.exe
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc de programmation.csprojResolveAssemblyReference.cache
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc de programmation.csproj.GenerateResource.Cache
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc_de_programmation.acceuil.resources
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc_de_programmation.programmation.resources
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc_de_programmation.base_donnees.resources
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc_de_programmation.New_id.resources
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc_de_programmation.produit_a_gerer.resources
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc_de_programmation.logiciel_à_gérer.resources
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc_de_programmation.Properties.Resources.resources
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\bin\Debug\stdole.dll
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\bin\Debug\office.dll
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\bin\Debug\Microsoft.Vbe.Interop.dll
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\obj\Debug\Banc de programmation.pdb
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\bin\Debug\Banc de programmation.exe
+H:\Banc de programmation Compact Flash\Code_Sources\Banc de programmation\bin\Debug\Banc de programmation.pdb

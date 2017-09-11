@@ -1,0 +1,132 @@
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\bin\Debug\Banc de programmation.exe
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\bin\Debug\Banc de programmation.pdb
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\ResolveAssemblyReference.cache
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\Banc_de_programmation.Properties.Resources.resources
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\Banc de programmation.csproj.GenerateResource.Cache
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\Banc de programmation.exe
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\Banc de programmation.pdb
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\Banc_de_programmation.acceuil.resources
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\Banc_de_programmation.prog.resources
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\bin\Debug\ByteFX.MySqlClient.Design.dll
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\bin\Debug\ByteFX.MySqlClient.dll
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\Banc_de_programmation.base_donnees.resources
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\obj\Debug\Banc_de_programmation.New_id.resources
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\GUNNEBO\Banc de programmation\Nouveau banc\Banc de programmation\Banc de programmation\bin\Debug\office.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc de programmation.exe
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc de programmation.pdb
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\ResolveAssemblyReference.cache
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc_de_programmation.programmation.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc_de_programmation.base_donnees.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc_de_programmation.New_id.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc_de_programmation.Properties.Resources.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc de programmation.csproj.GenerateResource.Cache
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Debug\Banc de programmation.exe
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Debug\Banc de programmation.pdb
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Debug\office.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Debug\office.xml
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc_de_programmation.produit_a_gerer.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc_de_programmation.logiciel_à_gérer.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Debug\Banc_de_programmation.acceuil.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\ResolveAssemblyReference.cache
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.acceuil.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.programmation.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.base_donnees.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.New_id.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.produit_a_gerer.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.logiciel_à_gérer.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.Properties.Resources.resources
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.csproj.GenerateResource.Cache
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.exe
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.pdb
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.Design.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Interop.Microsoft.Office.Core.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Vbe.Interop.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\office.dll
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.exe
+E:\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.pdb
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.exe
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.pdb
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.exe
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.pdb
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.Design.dll
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.dll
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\ICSharpCode.SharpZipLib.dll
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Interop.Microsoft.Office.Core.dll
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Office.Interop.Excel.dll
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Vbe.Interop.dll
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\bin\Release\office.dll
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\ResolveAssemblyReference.cache
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.acceuil.resources
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.programmation.resources
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.base_donnees.resources
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.New_id.resources
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.produit_a_gerer.resources
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.logiciel_à_gérer.resources
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.Properties.Resources.resources
+\\FrBazFS01\Users\AymGui\sauvegarde clé USB\GUNNEBO\Banc de programmation\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.csproj.GenerateResource.Cache
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.exe
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.pdb
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.exe
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.pdb
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.Design.dll
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.dll
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\bin\Release\office.dll
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\ResolveAssemblyReference.cache
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.acceuil.resources
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.programmation.resources
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.base_donnees.resources
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.New_id.resources
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.produit_a_gerer.resources
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.logiciel_à_gérer.resources
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.Properties.Resources.resources
+C:\Guillin Aymeric\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.csproj.GenerateResource.Cache
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.exe
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.pdb
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\ResolveAssemblyReference.cache
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.acceuil.resources
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.programmation.resources
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.base_donnees.resources
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.New_id.resources
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.produit_a_gerer.resources
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.logiciel_à_gérer.resources
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.Properties.Resources.resources
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.csproj.GenerateResource.Cache
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.exe
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.pdb
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.Design.dll
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.dll
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\office.dll
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.exe
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.pdb
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\ResolveAssemblyReference.cache
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.acceuil.resources
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.programmation.resources
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.base_donnees.resources
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.New_id.resources
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.produit_a_gerer.resources
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.logiciel_à_gérer.resources
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc_de_programmation.Properties.Resources.resources
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\obj\Release\Banc de programmation.csproj.GenerateResource.Cache
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.exe
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Banc de programmation.pdb
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.Design.dll
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\ByteFX.MySqlClient.dll
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\ICSharpCode.SharpZipLib.dll
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Interop.Microsoft.Office.Core.dll
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Office.Interop.Excel.dll
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\Microsoft.Vbe.Interop.dll
+\\FrBazFS01\Users\AymGui\Guillin Aymeric\Banc prog\2eme nouveau banc\Banc de programmation\bin\Release\office.dll
